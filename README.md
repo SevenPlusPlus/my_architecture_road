@@ -1,3 +1,7 @@
-# 
+## 我的架构实践总结
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+---
+
+### 背景
+
+过去四年在某互联网视频直播企业担任基础架构负责人，经历了企业业务高速发展，公司后台传统单体架构严重阻碍业务发展，而不得不痛苦微服务改造的过程。
