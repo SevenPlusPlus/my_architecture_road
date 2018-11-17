@@ -40,4 +40,11 @@
 
 ![](/assets/RPC总体调用图.png)
 
+### kkrpc 发布服务时序图
+
+![](/assets/kkrpc-export-时序图.png)
+
+### kkrpc 引用服务时序图
+
+![](/assets/kkrpc-refer-时序图.png)
 
